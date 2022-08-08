@@ -1,5 +1,7 @@
 # ansible-avalanche-getting-started
 
+:warning: **This project has been moved to [AshAvalanche/ansible-avalanche-getting-started](https://github.com/AshAvalanche/ansible-avalanche-getting-started) and the collection renamed to `ash.avalanche`** :warning:
+
 How to use the [nuttymoon.avalanche](https://github.com/Nuttymoon/ansible-avalanche-collection) Ansible collection to provision [Avalanche](https://docs.avax.network/) resources.
 
 - [Requirements](#requirements)
